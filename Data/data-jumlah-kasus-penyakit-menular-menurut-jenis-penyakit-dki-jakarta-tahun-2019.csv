@@ -1,0 +1,61 @@
+tahun,wilayah,nama_penyakit,jumlah_orang
+2019,Kepulauan Seribu,Malaria,0
+2019,Kepulauan Seribu,TB Paru,71
+2019,Kepulauan Seribu,Pneumonia,85
+2019,Kepulauan Seribu,Kusta,6
+2019,Kepulauan Seribu,Campak,0
+2019,Kepulauan Seribu,Diare,1940
+2019,Kepulauan Seribu,DBD,11
+2019,Kepulauan Seribu,AIDS Kasus Baru,0
+2019,Kepulauan Seribu,AIDS Kasus Kumilatif,0
+2019,Kepulauan Seribu,IMS,2
+2019,Jakarta Selatan,Malaria,10
+2019,Jakarta Selatan,TB Paru,7859
+2019,Jakarta Selatan,Pneumonia,10106
+2019,Jakarta Selatan,Kusta,42
+2019,Jakarta Selatan,Campak,106
+2019,Jakarta Selatan,Diare,101122
+2019,Jakarta Selatan,DBD,736
+2019,Jakarta Selatan,AIDS Kasus Baru,89
+2019,Jakarta Selatan,AIDS Kasus Kumilatif,199
+2019,Jakarta Selatan,IMS,4785
+2019,Jakarta Timur,Malaria,32
+2019,Jakarta Timur,TB Paru,12334
+2019,Jakarta Timur,Pneumonia,3413
+2019,Jakarta Timur,Kusta,131
+2019,Jakarta Timur,Campak,330
+2019,Jakarta Timur,Diare,94495
+2019,Jakarta Timur,DBD,923
+2019,Jakarta Timur,AIDS Kasus Baru,162
+2019,Jakarta Timur,AIDS Kasus Kumilatif,391
+2019,Jakarta Timur,IMS,4503
+2019,Jakarta Pusat,Malaria,3
+2019,Jakarta Pusat,TB Paru,6428
+2019,Jakarta Pusat,Pneumonia,1454
+2019,Jakarta Pusat,Kusta,25
+2019,Jakarta Pusat,Campak,94
+2019,Jakarta Pusat,Diare,48093
+2019,Jakarta Pusat,DBD,118
+2019,Jakarta Pusat,AIDS Kasus Baru,226
+2019,Jakarta Pusat,AIDS Kasus Kumilatif,791
+2019,Jakarta Pusat,IMS,5740
+2019,Jakarta Barat,Malaria,8
+2019,Jakarta Barat,TB Paru,7563
+2019,Jakarta Barat,Pneumonia,4776
+2019,Jakarta Barat,Kusta,99
+2019,Jakarta Barat,Campak,234
+2019,Jakarta Barat,Diare,92498
+2019,Jakarta Barat,DBD,941
+2019,Jakarta Barat,AIDS Kasus Baru,54
+2019,Jakarta Barat,AIDS Kasus Kumilatif,99
+2019,Jakarta Barat,IMS,6132
+2019,Jakarta Utara,Malaria,5
+2019,Jakarta Utara,TB Paru,5215
+2019,Jakarta Utara,Pneumonia,1926
+2019,Jakarta Utara,Kusta,64
+2019,Jakarta Utara,Campak,35
+2019,Jakarta Utara,Diare,72436
+2019,Jakarta Utara,DBD,278
+2019,Jakarta Utara,AIDS Kasus Baru,94
+2019,Jakarta Utara,AIDS Kasus Kumilatif,397
+2019,Jakarta Utara,IMS,2308

@@ -1,0 +1,55 @@
+tahun,wilayah,nama_penyakit,jumlah_orang
+2020,Kepulauan Seribu,Malaria,0
+2020,Kepulauan Seribu,TB Paru,29
+2020,Kepulauan Seribu,Pneumonia,63
+2020,Kepulauan Seribu,Kusta,0
+2020,Kepulauan Seribu,Campak,1
+2020,Kepulauan Seribu,Diare,5
+2020,Kepulauan Seribu,DBD,5
+2020,Kepulauan Seribu,AIDS Kasus Baru,0
+2020,Kepulauan Seribu,IMS,0
+2020,Jakarta Selatan,Malaria,6
+2020,Jakarta Selatan,TB Paru,4462
+2020,Jakarta Selatan,Pneumonia,5821
+2020,Jakarta Selatan,Kusta,87
+2020,Jakarta Selatan,Campak,86
+2020,Jakarta Selatan,Diare,2313
+2020,Jakarta Selatan,DBD,1020
+2020,Jakarta Selatan,AIDS Kasus Baru,31
+2020,Jakarta Selatan,IMS,4350
+2020,Jakarta Timur,Malaria,41
+2020,Jakarta Timur,TB Paru,6670
+2020,Jakarta Timur,Pneumonia,8553
+2020,Jakarta Timur,Kusta,75
+2020,Jakarta Timur,Campak,58
+2020,Jakarta Timur,Diare,3768
+2020,Jakarta Timur,DBD,1544
+2020,Jakarta Timur,AIDS Kasus Baru,92
+2020,Jakarta Timur,IMS,3245
+2020,Jakarta Pusat,Malaria,8
+2020,Jakarta Pusat,TB Paru,4207
+2020,Jakarta Pusat,Pneumonia,1919
+2020,Jakarta Pusat,Kusta,89
+2020,Jakarta Pusat,Campak,69
+2020,Jakarta Pusat,Diare,1601
+2020,Jakarta Pusat,DBD,367
+2020,Jakarta Pusat,AIDS Kasus Baru,94
+2020,Jakarta Pusat,IMS,3150
+2020,Jakarta Barat,Malaria,4
+2020,Jakarta Barat,TB Paru,4126
+2020,Jakarta Barat,Pneumonia,8362
+2020,Jakarta Barat,Kusta,43
+2020,Jakarta Barat,Campak,110
+2020,Jakarta Barat,Diare,4056
+2020,Jakarta Barat,DBD,1266
+2020,Jakarta Barat,AIDS Kasus Baru,10
+2020,Jakarta Barat,IMS,5122
+2020,Jakarta Utara,Malaria,1
+2020,Jakarta Utara,TB Paru,2662
+2020,Jakarta Utara,Pneumonia,4438
+2020,Jakarta Utara,Kusta,27
+2020,Jakarta Utara,Campak,2
+2020,Jakarta Utara,Diare,3129
+2020,Jakarta Utara,DBD,542
+2020,Jakarta Utara,AIDS Kasus Baru,20
+2020,Jakarta Utara,IMS,812
