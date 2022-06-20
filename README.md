@@ -48,7 +48,7 @@ Dalam perancangan dan pengembangan dashboard terdapat beberapa step yang dilakuk
   
 Filter-filter tersebut telah dilakukan penyesuaian agar 1 filter dapat berfungsi untuk beberapa chart dan beberapa filter dapat dikombinasikan untuk menampilkan informasi pada chart yang diinginkan.  
 
-##Kontak
+## Kontak
 
 Nauval Yusuf Restigam S - 221910951@stis.ac.id
 
