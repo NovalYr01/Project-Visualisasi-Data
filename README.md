@@ -7,7 +7,7 @@ Dalam perancangan dan pengembangan dashboard terdapat beberapa step yang dilakuk
 3. Perancangan dashboard
 
 ## 1. Pengumpulan dan pengolahan Data
-  Data yang digunakan dalam perancangan dashboard ini adalah data jumlah kasus penyakit menular menurut jenis penyakit DKI Jakarta pada tahun 2017 – 2020 yang diperoleh dari website Jakarta Open Data (<https://data.jakarta.go.id/>).  
+  Data yang digunakan dalam perancangan dashboard ini adalah data jumlah kasus penyakit menular menurut jenis penyakit DKI Jakarta pada tahun 2017 – 2020 yang diperoleh dari website [Jakarta Open Data](https://data.jakarta.go.id/).  
   Data yang diperoleh dari website tersebut terdapat 4 file , dimana masing-masing file itu memiliki periode tahun yang berbeda, sehingga file data tersebut di compile agar menjadi 1 file , kemudian melakukan pemodelan data untuk melakukan visualisasi data.  
   Kemudian setelah pengolahan tersebut, data yang akan digunakan untuk perancangan dashboard memiliki 4 variabel. Variabel tersebut terdiri dari tahun, nama wilayah, penyakit dan jumlah kasus, dengan rincian sebagai berikut.
   1. Variabel tahun  
@@ -46,5 +46,14 @@ Dalam perancangan dan pengembangan dashboard terdapat beberapa step yang dilakuk
   3.	Filter Jenis Penyakit  
    Selanjutnya untuk filter jenis penyakit, filter tersebut digunakan padavisualisasi data yang pertama , kedua dan ketiga. Dengan pilihan yang disediakan chart yaitu 18 jenis penyakit menular seperti diare, TB Paru, pneumonia, kusta, malaria dan seterusnya. Sehingga chart tersebut dapat menampilkan informasi yang sesuai dengan filter yang dipilih.  
   
-Filter-filter tersebut telah dilakukan penyesuaian agar 1 filter dapat berfungsi untuk beberapa chart dan beberapa filter dapat dikombinasikan untuk menampilkan informasi pada chart yang diinginkan
+Filter-filter tersebut telah dilakukan penyesuaian agar 1 filter dapat berfungsi untuk beberapa chart dan beberapa filter dapat dikombinasikan untuk menampilkan informasi pada chart yang diinginkan.  
+
+##Kontak
+
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Project Link: [Dashboard Jenis Penyakit Menular di DKI Jakarta](https://public.tableau.com/views/3SD2-221910951-DashboardJenisPenyakitMenular/Dashboard22?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
