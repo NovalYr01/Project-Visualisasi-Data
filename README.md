@@ -50,7 +50,7 @@ Filter-filter tersebut telah dilakukan penyesuaian agar 1 filter dapat berfungsi
 
 ##Kontak
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Nauval Yusuf Restigam S - 221910951@stis.ac.id
 
 Project Link: [Dashboard Jenis Penyakit Menular di DKI Jakarta](https://public.tableau.com/views/3SD2-221910951-DashboardJenisPenyakitMenular/Dashboard22?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
